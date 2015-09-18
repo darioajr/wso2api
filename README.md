@@ -5,7 +5,10 @@
 ### Docker image to install and run WSO2 API Manager.
 
 ## Usage
+pull 
+docker pull darioajr/wso2api
 
-### To pull: docker pull darioajr/wso2api
-### To run: docker run --rm --name your_container_name -p 9443:9443 your_image_name
-### To access API Manager web admin console, navigate to https://localhost:9443
+run 
+docker run --rm --name your_container_name -p 9443:9443 your_image_name
+
+To access API Manager web admin console, navigate to https://localhost:9443
