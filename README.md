@@ -1,8 +1,8 @@
 # WSO2 API Manager
 
-## Docker WSO2 API Manager
+Docker WSO2 API Manager
 
-### Docker image to install and run WSO2 API Manager.
+Docker image to install and run WSO2 API Manager.
 
 ## Usage
 pull 
